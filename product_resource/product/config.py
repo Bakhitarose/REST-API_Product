@@ -1,0 +1,1 @@
+REST_PRODUCT_URL = "/product/"
